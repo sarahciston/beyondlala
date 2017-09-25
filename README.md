@@ -4,6 +4,10 @@ This is a repository for a mapping project inspired by Pacific Standard Time: LA
 and learn more about Latino/a and Hispanic communities - especially with how they relate to the musuems and institutions that represent 
 their work. The maps are made using the American Community Survey 2015 data.
 
+In addition I wanted to make a map using CARTO as an alternative to some of the other mapping applications out there. I also wanted to share the data that I gathered so if you want to make your own map you can do so easily!
+
+If you navigate to the data folder you can download a CSV file of all of the PST LA/LA exhibits. 
+
 
 
 ----------
