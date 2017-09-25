@@ -8,6 +8,7 @@ In addition I wanted to make a map using CARTO as an alternative to some of the 
 
 If you navigate to the data folder you can download a CSV file of all of the PST LA/LA exhibits. 
 
+LA/LAPopulation_CensustTract_Data.zip - Data downloaded from Social Explorer. 2015 American Community Survey Data. 
 
 
 ----------
