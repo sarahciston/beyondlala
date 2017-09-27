@@ -6,11 +6,17 @@ their work. The maps are made using the American Community Survey 2015 data.
 
 In addition I wanted to make a map using CARTO as an alternative to some of the other mapping applications out there. I also wanted to share the data that I gathered so if you want to make your own map you can do so easily!
 
-If you navigate to the data folder you can download a CSV file of all of the PST LA/LA exhibits. 
+If you navigate to the data folder you will find the following files:
 
+Pacific Standard Time 2017 - Primary - Sheet1.csvc - All Pacific Standard Time exhibits with metadata created from the PST website 
 LA/LAPopulation_CensustTract_Data.zip - Data downloaded from Social Explorer. 2015 American Community Survey Data. 
 
 
+----------
+----------
+----------
+----------
+----------
 ----------
 
 Story by HTML5 UP
